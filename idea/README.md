@@ -1,46 +1,22 @@
 
 
-Technology Partner
-
 **Bank of Baroda Hackathon - 2022**
-
-
-
-
 
 **Problem Statement**
 
-● Banks handle large volumes of cheques in the clearing process, leaving the system vulnerable to
+● Banks handle large volumes of cheques in the clearing process, leaving the system vulnerable to perpetrators, causing processing delays and human errors that are frequently misinterpreted as account holders' negligence.
 
-perpetrators, causing processing delays and human errors that are frequently misinterpreted as account
-
-holders' negligence.
-
-● Cheque fraud is a type of criminal act that involves the illegal use of cheques to illegally acquire or borrow
-
-funds that do not exist within the account balance or legal ownership of the account-holder. The Reserve Bank
-
-of India (RBI) has directed banks to implement a system known as Positive Pay beginning in January 2021 in
-
-order to reduce cheque-related fraud.
+● Cheque fraud is a type of criminal act that involves the illegal use of cheques to illegally acquire or borrow funds that do not exist within the account balance or legal ownership of the account-holder. The Reserve Bank of India (RBI) has directed banks to implement a system known as Positive Pay beginning in January 2021 in order to reduce cheque-related fraud.
 
 **Solution**
 
-● The proposed idea focuses on automatic cheque processing, which adds an extra layer of security to positive
-
-pay by automating the process of bank cheque leaf verification and fraud detection.
-
-
-
-
+● The proposed idea focuses on automatic cheque processing, which adds an extra layer of security to positive pay by automating the process of bank cheque leaf verification and fraud detection.
 
 **Challenges & Target User Segment**
 
-● With PPS, RBI is augmenting customer safety in high value cheque payments and reduce the fraud
+● With PPS, RBI is augmenting customer safety in high value cheque payments and reduce the fraud occurrences on account of tempering cheque leaves.
 
-occurrences on account of tempering cheque leaves.
-
-● This proposal targets PPS transactions
+● This proposal targets PPS transactions 
 
 ● Current and target check clearing transaction distribution
 
