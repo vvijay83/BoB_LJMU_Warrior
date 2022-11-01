@@ -1,0 +1,14 @@
+{
+    "cheque_path": "path to check",
+    "Server":"sql server name",
+    "port":"port number of sql server",
+    "Database":"db name",
+    "Uid":"username",
+    "Pwd":"password",
+    "form_recog_cred":"identifier",
+    "subscription_key_translate" : "subscription key",
+    "endpoint" :"form recog endpoint",
+    "endpoint_translator" :"translator api endpoint"
+
+}
+
