@@ -12,6 +12,8 @@ Positive Pay Confirmation is a safeguard against fraud committed by tampering wi
 
 The proposed idea focuses on automatic cheque processing, which adds an extra layer of security to positive pay by automating the process of bank cheque leaf verification and fraud detection.
 
+![Alt text](/relative/path/to/img.jpg?raw=true "Optional Title")
+
 https://github.com/milaan9/93_Python_Data_Analytics_Projects/tree/main/001_Cervical_Cancer_Predection_with_ML
 
 1. run the main file
