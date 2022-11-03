@@ -4,6 +4,11 @@
  
 # Positive_pay_cheque_validations_with_AZURE_ML
 
+<p align="center">  
+ <img src="https://img.indiafilings.com/learn/wp-content/uploads/2019/04/12004446/Cross-Cheque.jpg" width="700"/>
+</p>                                                             
+
+
 ## Positive pay confirmation:
 
 Positive Pay Confirmation is a safeguard against fraud committed by tampering with or altering checks. Positive Pay System entails the drawer re-confirming key details of the cheque to the bank, which are then cross-checked with the presented cheque during payment processing.
@@ -22,8 +27,4 @@ https://github.com/milaan9/93_Python_Data_Analytics_Projects/tree/main/001_Cervi
 2. run the ui.app
 
 
-
-<p align="center">  
- <img src="https://img.indiafilings.com/learn/wp-content/uploads/2019/04/12004446/Cross-Cheque.jpg" width="700"/>
-</p>                                                             
 
