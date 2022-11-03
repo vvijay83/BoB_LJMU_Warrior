@@ -8,6 +8,9 @@
  
 # Positive_pay_cheque_validations_with_AZURE_ML
 
+## Positive pay confirmation:
+
+Positive Pay Confirmation is a safeguard against fraud committed by tampering with or altering checks. Positive Pay System entails the drawer re-confirming key details of the cheque to the bank, which are then cross-checked with the presented cheque during payment processing.
 
 https://github.com/milaan9/93_Python_Data_Analytics_Projects/tree/main/001_Cervical_Cancer_Predection_with_ML
 
