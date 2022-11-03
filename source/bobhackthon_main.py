@@ -5,7 +5,7 @@ from translator_content import *
 from load_config import *
 import re
 from datetime import date
-
+validations=False
 
 
 
@@ -27,7 +27,8 @@ def validate_details(cleaned_check_details,cleaned_user_details):
     date_diff = int(str(date.today().day)+str(date.today().month)+str(date.today().year)) - int(cleaned_check_details['date'])
     balance = int(cleaned_user_details['account_total_amount']) - int(cleaned_check_details['amount'])
     if (cleaned_user_details['cheque_number']==cleaned_check_details['cheque_number']) & (cleaned_user_details['ifsc_code']==cleaned_check_details['ifsc_code']) &(cleaned_user_details['account_num']==cleaned_check_details['account_num']) & (cleaned_user_details['Username']==cleaned_check_details['account_holder_name']):
-        print("validations are sucesfull")    
+        print("validations are sucesfull") 
+        global validations=True
     
 if __name__== "__main__":
 #def final_code():   
