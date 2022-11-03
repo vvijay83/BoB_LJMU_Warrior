@@ -16,5 +16,4 @@ https://github.com/milaan9/93_Python_Data_Analytics_Projects/tree/main/001_Cervi
 
 1. run the main file
 
-
 2. run the ui.app
