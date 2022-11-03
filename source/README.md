@@ -6,7 +6,7 @@
 <!--<img src="https://badges.pufler.dev/contributors/milaan9/01_Python_Introduction?size=50&padding=5&bots=true" alt="milaan9"/>-->
  
  
-# Positive_pay_cheque validations_with_AZURE_ML
+# Positive_pay_cheque_validations_with_AZURE_ML
 
 
 https://github.com/milaan9/93_Python_Data_Analytics_Projects/tree/main/001_Cervical_Cancer_Predection_with_ML
