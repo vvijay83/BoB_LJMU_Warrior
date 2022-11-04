@@ -50,9 +50,9 @@ Once Installed now we can import it inside our python code.
 
 Requirements.txt is uploaded [Requirement file](https://github.com/akbism/BoB_LJMU_Warrior/blob/main/source/requirements.txt)
 
-To install required libraries using requirements.txt file use 
+To install required libraries using requirements.txt file use the below command from terminal.
 
--     pip install -r requirement.txt command from terminal
+-     pip install -r requirement.txt 
 
 https://github.com/milaan9/93_Python_Data_Analytics_Projects/tree/main/001_Cervical_Cancer_Predection_with_ML
 
