@@ -28,17 +28,17 @@ Open your [![Anaconda](https://img.shields.io/badge/Anaconda-342B029.svg?&style=
        
  -       pip install numpy  
   
- -       pip install seaborn
+ -       pip install Flair
  
- -       pip install plotly
+ -       pip install azure-ai-formrecognizer
      
- -       pip install jupyterthemes
- 
- -       pip install seaborn
+ -       pip install pyodbc
+  
+ -       pip install textwrap
  
  -       pip install --upgrade pip
  
- -       pip install xgboost
+ -       pip install optparse
 
 Once Installed now we can import it inside our python code.
 
