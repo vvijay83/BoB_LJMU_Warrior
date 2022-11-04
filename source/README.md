@@ -57,7 +57,7 @@ To install required libraries using requirements.txt file use the below command 
 -     pip install -r requirement.txt 
 ---     
 
-### How can I read this tutorial without an Internet connection? <img alt="GIF" 
+### Downloading source code
 
 1. Go [**`here`**]([https://github.com/akbism/BoB_LJMU_Warrior](https://github.com/akbism/BoB_LJMU_Warrior)) and click the big green ➞ **`Code`** button in the top right of the page, then click ➞ [**`Download ZIP`**](https://github.com/akbism/BoB_LJMU_Warrior/archive/refs/heads/main.zip).
 
