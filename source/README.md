@@ -46,6 +46,12 @@ Once Installed now we can import it inside our python code.
 
 ---
 
+## Requirements:
+
+Requirements.txt is uploaded here 
+
+[this subsubtext](subpro/subsubpro/subsubtext.md)
+
 https://github.com/milaan9/93_Python_Data_Analytics_Projects/tree/main/001_Cervical_Cancer_Predection_with_ML
 
 1. run the main file
