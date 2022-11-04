@@ -69,7 +69,7 @@ If you have git and you know how to use it, you can also clone the repository in
 
 ---
 
-## Run thee source code
+## Running the source code
 
 1. run the main file
 
