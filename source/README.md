@@ -20,6 +20,8 @@ The proposed idea focuses on automatic cheque processing, which adds an extra la
 
 ![Alt text](https://github.com/akbism/BoB_LJMU_Warrior/blob/main/source/Copy%20of%20bob%20hackthon_original.jpg)
 
+---
+
 ## Install Necessary Modules:
 
 Open your [![Anaconda](https://img.shields.io/badge/Anaconda-342B029.svg?&style=flate&logo=anaconda&logoColor=white)](https://www.anaconda.com/products/individual) Prompt <img alt="propmt" src="https://img.shields.io/badge/-__-000000?style=flat-square&logo=Plex&logoColor=white"> and type and run the following command (individually):
