@@ -57,9 +57,9 @@ To install required libraries using requirements.txt file use the below command 
 -     pip install -r requirement.txt 
 ---     
 
-### How can I read this tutorial without an Internet connection? <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20vw" />
+### How can I read this tutorial without an Internet connection? <img alt="GIF" 
 
-1. Go [**`here`**](https://github.com/milaan9/93_Python_Data_Analytics_Projects) and click the big green ➞ **`Code`** button in the top right of the page, then click ➞ [**`Download ZIP`**](https://github.com/milaan9/93_Python_Data_Analytics_Projects/archive/refs/heads/main.zip).
+1. Go [**`here`**]([https://github.com/milaan9/93_Python_Data_Analytics_Projects](https://github.com/akbism/BoB_LJMU_Warrior)) and click the big green ➞ **`Code`** button in the top right of the page, then click ➞ [**`Download ZIP`**](https://github.com/akbism/BoB_LJMU_Warrior/archive/refs/heads/main.zip).
 
     ![Download ZIP](https://github.com/milaan9/93_Python_Data_Analytics_Projects/blob/main/img/dnld_rep.png)
 
