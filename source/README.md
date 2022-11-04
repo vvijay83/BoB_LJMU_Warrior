@@ -20,6 +20,30 @@ The proposed idea focuses on automatic cheque processing, which adds an extra la
 
 ![Alt text](https://github.com/akbism/BoB_LJMU_Warrior/blob/main/source/Copy%20of%20bob%20hackthon_original.jpg)
 
+## Install Necessary Modules:
+
+Open your [![Anaconda](https://img.shields.io/badge/Anaconda-342B029.svg?&style=flate&logo=anaconda&logoColor=white)](https://www.anaconda.com/products/individual) Prompt <img alt="propmt" src="https://img.shields.io/badge/-__-000000?style=flat-square&logo=Plex&logoColor=white"> and type and run the following command (individually):
+
+ -       pip install pandas
+       
+ -       pip install numpy  
+  
+ -       pip install seaborn
+ 
+ -       pip install plotly
+     
+ -       pip install jupyterthemes
+ 
+ -       pip install seaborn
+ 
+ -       pip install --upgrade pip
+ 
+ -       pip install xgboost
+
+Once Installed now we can import it inside our python code.
+
+---
+
 https://github.com/milaan9/93_Python_Data_Analytics_Projects/tree/main/001_Cervical_Cancer_Predection_with_ML
 
 1. run the main file
