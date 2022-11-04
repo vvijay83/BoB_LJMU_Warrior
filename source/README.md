@@ -69,11 +69,20 @@ If you have git and you know how to use it, you can also clone the repository in
 
 ---
 
-## Running the source code
+## Deploying the source code
 
-1. run the main file
+1. Download the zip file or clone the repository
 
-2. run the ui.app
+2. Run Ui_app.py file 
+
+3. Navigate to the ui hosted in local server 
+
+4. Upload the cheque
+
+5. Extracted features from cheque would be displayed for customer reference
+
+6. A confirmation code would be printed on screen to confirm the validation of the user and cheque details
+
 
 
 
