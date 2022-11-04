@@ -59,7 +59,7 @@ To install required libraries using requirements.txt file use the below command 
 
 ### Downloading source code
 
-1. Go [**`here`**]([https://github.com/akbism/BoB_LJMU_Warrior](https://github.com/akbism/BoB_LJMU_Warrior)) and click the big green ➞ **`Code`** button in the top right of the page, then click ➞ [**`Download ZIP`**](https://github.com/akbism/BoB_LJMU_Warrior/archive/refs/heads/main.zip).
+1. Go [**`here`**](https://github.com/akbism/BoB_LJMU_Warrior) and click the big green ➞ **`Code`** button in the top right of the page, then click ➞ [**`Download ZIP`**](https://github.com/akbism/BoB_LJMU_Warrior/archive/refs/heads/main.zip).
 
     ![Download ZIP](https://github.com/akbism/BoB_LJMU_Warrior/blob/main/source/Screenshot%202022-11-04%20at%2011.24.17%20AM.png)
 
