@@ -50,7 +50,7 @@ Once Installed now we can import it inside our python code.
 
 ## Requirements:
 
-Requirements.txt is uploaded [Requirement file](https://github.com/akbism/BoB_LJMU_Warrior/blob/main/source/requirements.txt)
+Requirements.txt is uploaded at [Requirement file](https://github.com/akbism/BoB_LJMU_Warrior/blob/main/source/requirements.txt)
 
 To install required libraries using requirements.txt file use the below command from terminal.
 
